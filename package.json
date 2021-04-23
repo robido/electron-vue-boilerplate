@@ -60,6 +60,7 @@
 	},
 	"homepage": "https://github.com/oliverfindl/electron-vue-boilerplate#readme",
 	"dependencies": {
+		"electron-log": "^4.3.4",
 		"vue": "^3.0.7"
 	},
 	"devDependencies": {
